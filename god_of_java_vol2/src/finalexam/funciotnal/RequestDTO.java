@@ -1,5 +1,7 @@
 package finalexam.funciotnal;
 
+import java.util.StringTokenizer;
+
 public class RequestDTO {
 
     private String requestMethod = "GET";

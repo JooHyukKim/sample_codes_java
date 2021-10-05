@@ -39,4 +39,5 @@ public class TestOptional {
         String result3 = data.orElseGet(supplier);
         String result4 = data.orElseThrow(exceptionSupplier);
     }
+
 }
