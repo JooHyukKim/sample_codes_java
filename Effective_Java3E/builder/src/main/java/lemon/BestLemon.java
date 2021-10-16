@@ -1,6 +1,6 @@
 package lemon;
 
-public class BestLemon {
+public class BestLemon implements Lemon {
 
     private String acidity;
     private String color;
@@ -11,6 +11,11 @@ public class BestLemon {
         this.acidity = acidity;
         this.color = color;
         this.size = size;
+    }
+
+    @Override
+    public void squeeze() {
+        System.out.println("Best Lemon Squeeze¬");
     }
 
     // 2. 빌더로 사용할 내부 정적 클래스를 생성한다.

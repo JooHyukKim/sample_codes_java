@@ -1,6 +1,6 @@
 package lemon;
 
-public class FreshLemon {
+public class FreshLemon implements Lemon {
 
     private String acidity;
     private String color;
@@ -40,5 +40,11 @@ public class FreshLemon {
 
     public void setSize(int size) {
         this.size = size;
+    }
+
+    @Override
+    public void squeeze() {
+
+        System.out.println("Fresh Lemon Squeeze");
     }
 }
