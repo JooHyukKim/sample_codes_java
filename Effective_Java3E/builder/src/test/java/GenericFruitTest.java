@@ -14,7 +14,7 @@ class GenericFruitTest {
 
         );
 
-        Arrays.stream(bestLemonGenericFruitShop.getFruits()).forEach(System.out::println);
+        Arrays.stream(bestLemonGenericFruitShop.getFruits()).forEach(f -> f.squeeze());
 
     }
 }
