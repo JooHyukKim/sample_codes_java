@@ -77,63 +77,63 @@
 
 
 
-### [DAY 1 : 객체의 생성    <---클릭 ](./notes/day1.md)
+### [DAY 1 : 객체의 생성    <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day1.md)
 
 - 아이템 1~5
 
-### [DAY 2 : 객체의 파괴     <---클릭 ](./notes/day2.md)
+### [DAY 2 : 객체의 파괴     <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day2.md)
 
 - 아이템 6~9
 
-### [DAY 3 : 습관적으로 사용할 수 있는 Object의 공통 메서드 <---클릭 ](./notes/day3.md)
+### [DAY 3 : 습관적으로 사용할 수 있는 Object의 공통 메서드 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day3.md)
 
 - 아이템 10~14
 
-### [DAY 4 : Class 와 상속 <---클릭 ](./notes/day4.md)
+### [DAY 4 : Class 와 상속 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day4.md)
 
 - 아이템 15~19
 
-### [DAY 5 : interface 와 Class 설계 원칙 <---클릭 ](./notes/day5.md)
+### [DAY 5 : interface 와 Class 설계 원칙 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day5.md)
 
 - 아이템 20~25
 
-### [DAY 6 : Generic 으로 만들어 사용하기 <---클릭 ](./notes/day6.md)
+### [DAY 6 : Generic 으로 만들어 사용하기 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day6.md)
 
 - 아이템 26~29
 
-### [DAY 7 : Generic Method와 Generic의 주의사항 <---클릭 ](./notes/day7.md)
+### [DAY 7 : Generic Method와 Generic의 주의사항 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day7.md)
 
 - 아이템 30~33
 
-### [DAY 8 : Enum 과 Annotation의 Effective한 사용 <---클릭 ](./notes/day8.md)
+### [DAY 8 : Enum 과 Annotation의 Effective한 사용 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day8.md)
 
 - 아이템 34~41
 
-### [DAY 9 : Lambda의 우아함과 Stream의 주의사항 <---클릭 ](./notes/day9.md)
+### [DAY 9 : Lambda의 우아함과 Stream의 주의사항 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day9.md)
 
 - 아이템 42~48
 
-### [DAY 10 : Effective한 Method와 주의사항 <---클릭 ](./notes/day10.md)
+### [DAY 10 : Effective한 Method와 주의사항 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day10.md)
 
 - 아이템 49~56
 
-### [DAY 11 : Basic한 프로그래밍 원칙 1  <---클릭 ](./notes/day11.md)
+### [DAY 11 : Basic한 프로그래밍 원칙 1  <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day11.md)
 
 - 아이템 57~63
 
-### [DAY 12 : Basic 한 프로그래밍 원칙 2 <---클릭 ](./notes/day12.md)
+### [DAY 12 : Basic 한 프로그래밍 원칙 2 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day12.md)
 
 - 아이템 64~68
 
-### [DAY 13 : Exception, 과하지도 모자라지도 않게 <---클릭 ](./notes/day13.md)
+### [DAY 13 : Exception, 과하지도 모자라지도 않게 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day13.md)
 
 - 아이템 69~77
 
-### [DAY 14 : 동시성, 위험성과 효율 사이 <---클릭 ](./notes/day14.md)
+### [DAY 14 : 동시성, 위험성과 효율 사이 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day14.md)
 
 - 아이템 78~84
 
-### [DAY 15 : Serialize, 제대로 알고 쓰기 <---클릭 ](./notes/day15.md)
+### [DAY 15 : Serialize, 제대로 알고 쓰기 <---클릭 ](https://github.com/JooHyukKim/sample_codes_java/blob/main/Effective_Java3E/notes/day15.md)
 
 - 아이템 85~90
 
