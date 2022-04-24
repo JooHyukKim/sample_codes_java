@@ -1,16 +1,20 @@
 # Head First Design Pattern 책 학습 내용
 
-### 0. Design Principles
+### # Design Principles
 
 **전략패턴 Strategy Pattern**
 
-- Take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without
-  affecting those that don't
-- Program to an interface, not an implementation
+- Encapsulate what varies
 - Favor composition over inheritance
+- Program to an interface, not an implementation
 
+**옵저버 패턴 Observer Pattern** : one-to-many dependency between objects so that when one object changes state, all its
+dependents are notified and updated automatically
 
+- Strive for loosely coupled designs between objects that interact
 
-### 1. Code Snippets
+### # Key notes
 
-    책의 프로그램 작성을 따라갑니다.
+- the only constant in software is **change**
+
+// 1 appear // 2 encapsulate // 3 composition
