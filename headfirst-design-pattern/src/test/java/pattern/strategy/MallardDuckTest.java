@@ -1,4 +1,10 @@
+package pattern.strategy;
+
 import org.junit.jupiter.api.Test;
+import pattern.strategy.Duck;
+import pattern.strategy.FlyRocketPower;
+import pattern.strategy.MallardDuck;
+import pattern.strategy.ModelDuck;
 
 public class MallardDuckTest {
 

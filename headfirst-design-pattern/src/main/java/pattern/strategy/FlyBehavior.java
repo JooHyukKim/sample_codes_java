@@ -1,3 +1,5 @@
+package pattern.strategy;
+
 interface FlyBehavior {
   void fly();
 }

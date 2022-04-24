@@ -1,3 +1,5 @@
+package pattern.strategy;
+
 public class MallardDuck extends Duck {
   public MallardDuck() {
     flyBehavior = new FlyWithWings();
@@ -6,6 +8,6 @@ public class MallardDuck extends Duck {
 
   @Override
   public void display() {
-    System.out.println("I'm a real Mallard Duck!");
+    System.out.println("I'm a real Mallard pattern.strategy.Duck!");
   }
 }

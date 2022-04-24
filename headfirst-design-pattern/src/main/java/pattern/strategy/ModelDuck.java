@@ -1,3 +1,5 @@
+package pattern.strategy;
+
 public class ModelDuck extends Duck {
 
   public ModelDuck() {
@@ -7,6 +9,6 @@ public class ModelDuck extends Duck {
 
   @Override
   public void display() {
-    System.out.println("I am a model Duck");
+    System.out.println("I am a model pattern.strategy.Duck");
   }
 }
