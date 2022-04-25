@@ -36,6 +36,10 @@ dependents are notified and updated automatically
 - Encapsulates a request as an object, thereby letting you parameterize clients with different requests, queue or log
   requests, and support undoable operations
 - used in queuing requests && logging queues
+
+### Adaptor Pattern
+
+
 ## Keynotes
 
 - the only constant in software is **change**
