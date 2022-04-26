@@ -1,6 +1,10 @@
 # Head First Design Pattern 책 학습 내용
 
-## Design Principles
+## Important Notes
+
+- the only constant in software is **CHANGE**
+
+## Design Patterns
 
 ### 전략패턴 Strategy Pattern
 
@@ -61,8 +65,11 @@ dependents are notified and updated automatically
 - A facade decouples a client from a complex subsystem.
 - Implementing a facade requires that we compose the facade with its subsystem and use delegation to perform the work of
   the facade.
-- You can implement more than one facade for a subsystem.
+- You can implement more than one facade for a subsystem
 
-## Important Notes
+### Template Methods
 
-- the only constant in software is **CHANGE**
+- **Template Method Pattern** defines the skeleton of an algorigthm in a method, deferring some steps to subclasses.
+- Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure.
+    - EX == abstract class `CaffeineBeverage` subclassed by `Coffee` and `Tea`
+- can use `Hooks` to allow subclasses to **optionally** control the workflow of the Template Methot
